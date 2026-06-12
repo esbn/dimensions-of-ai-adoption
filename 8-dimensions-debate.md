@@ -1,17 +1,16 @@
-# Eight Perspectives on AI Adoption in Organizations
+# Seven Perspectives on AI Adoption in Organizations
 
-This document contains eight perspective-agents on AI adoption in organizations. Each agent was initialized with a short evidence base from public sources, then placed into a moderated exploratory debate.
+This document contains seven perspective-agents on AI adoption in organizations. Each agent was initialized with a short evidence base from public sources, then placed into a moderated exploratory debate.
 
-The eight perspectives are:
+The seven perspectives are:
 
-1. Human Centerpiece
+1. Human Process Encoder
 2. Orchestration First
 3. Organizational Topology
 4. Governance as Operating System
 5. Context-to-Decision Value Chain
 6. Capability Building
 7. Quality of Working Life
-8. Portfolio of Bets
 
 ## Sources Used for Initialization
 
@@ -21,14 +20,13 @@ The eight perspectives are:
 - [OECD Artificial Intelligence Review of Germany](https://www.oecd-ilibrary.org/science-and-technology/oecd-artificial-intelligence-review-of-germany_609808d6-en): human-centered AI, skills, workforce involvement, social dialogue, data bottlenecks, workplace risks, and AI adoption conditions.
 - [HBR, Building the AI-Powered Organization](https://hbr.org/2019/07/building-the-ai-powered-organization): AI adoption as organizational transformation, not just technology installation.
 - [MIT Sloan Management Review AI strategy work](https://sloanreview.mit.edu/tag/artificial-intelligence/): AI adoption as a strategy, execution, organizational transformation, and process innovation issue.
-- [ProductPlan, Weighted Scoring](https://www.productplan.com/glossary/weighted-scoring/): prioritizing initiatives through weighted benefit/cost criteria tied to current strategy.
 - [Melvin Conway, Conway's Law](https://www.melconway.com/Home/Conways_Law.html): organizations design systems that copy their communication structures.
 - [Team Topologies, Key Concepts](https://www.teamtopologies.com/key-concepts): fast flow of value, four fundamental team types, three interaction modes, and team cognitive load.
 - [Dan Rose transcript, Få mest AI-værdi for pengene](../resources/Dan%20Rose%20-%20F%C3%A5%20mest%20AI-v%C3%A6rdi%20for%20pengene): AI governance as organization design, reverse Conway, value streams, agent duplication, IT bottlenecks, and brain fry.
 
-## Part 1: The Eight Agents
+## Part 1: The Seven Agents
 
-### 1. Human Centerpiece
+### 1. Human Process Encoder
 
 **Core belief:** You do not transform an organization by imposing intelligence from above. You transform it by helping people express, inspect, improve, and partially automate the work they already understand.
 
@@ -145,35 +143,19 @@ The organization needs an explicit quality of working life bargain: what employe
 
 **Evidence orientation:** OECD states that AI can improve safety, enjoyment at work, and productivity, but also carries risks including automation, privacy, bias, accountability, transparency, and increased work intensity. McKinsey emphasizes that productivity gains require workers to shift activities and sometimes occupations, and that stakeholders must manage both benefits and harms.
 
-### 8. Portfolio of Bets
-
-**Core belief:** AI adoption should allocate attention, funding, and governance according to risk, uncertainty, reversibility, and strategic value.
-
-**Pitch:**
-
-AI adoption should be managed as a portfolio of uncertain bets, not as one grand doctrine.
-
-Organizations rarely know in advance where AI will create value. Some opportunities are cheap local experiments. Some require deep workflow redesign. Some should become shared services. Some are too risky. Some should be killed quickly. Some are infrastructure bets whose payoff comes later.
-
-The question is not which philosophy is always right. The question is: What kind of bet is this?
-
-Each AI initiative should be classified by expected value, uncertainty, risk, reversibility, dependency, learning value, strategic alignment, and effort. Then it should receive the governance, funding, and review cadence appropriate to that class.
-
-**Evidence orientation:** McKinsey evaluates generative AI through use cases tied to measurable outcomes and notes that value varies heavily by function and industry. ProductPlan's weighted scoring model supports ranking initiatives against benefit and cost categories with weights tied to current strategy. NIST supports risk-based management aligned with organizational priorities.
-
 ## Part 2: Moderated Debate
 
 ### Moderator Opening
 
-We have eight perspectives in the room. Two were present from the beginning: Human Centerpiece and Orchestration First. Six others fill vacant positions: Organizational Topology, Governance as Operating System, Context-to-Decision Value Chain, Capability Building, Quality of Working Life, and Portfolio of Bets.
+We have seven perspectives in the room. Two were present from the beginning: Human Process Encoder and Orchestration First. Five others fill vacant positions: Organizational Topology, Governance as Operating System, Context-to-Decision Value Chain, Capability Building, and Quality of Working Life.
 
-The opening tension is this: Should AI adoption begin from lived work, future orchestration, organizational topology, explicit governance, the context-to-decision value chain, organizational learning, quality of working life, or portfolio allocation?
+The opening tension is this: Should AI adoption begin from lived work, future orchestration, organizational topology, explicit governance, the context-to-decision value chain, organizational learning, quality of working life?
 
 I will ask each perspective to state its strongest position, then invite challenges. If a perspective is challenged, it may rebut immediately.
 
 ### Round 1: Opening Statements
 
-**Human Centerpiece:**
+**Human Process Encoder:**
 Start with the people who do the work. Formal process descriptions are often fiction. Real work happens through exceptions, judgment, trust networks, informal checks, and repair work. If we redesign from above before understanding that reality, we risk building a clean architecture for the wrong process. Worker-led agent building is valuable because it makes tacit knowledge explicit.
 
 **Orchestration First:**
@@ -194,9 +176,6 @@ Start with learning. Every model, vendor, tool, and pattern will change. The onl
 **Quality of Working Life:**
 Start with legitimacy. AI adoption changes workload, autonomy, skill, surveillance, and job security. If workers experience AI as extraction, they will resist, hide knowledge, or comply performatively. Any serious adoption strategy must say what employees gain, not just what the organization saves.
 
-**Portfolio of Bets:**
-Start with classification. There is no universal answer. Some AI initiatives should be bottom-up experiments. Some should be orchestration-first redesigns. Some should be data-product investments. Some should be stopped. Treat AI adoption as a portfolio of bets with different value, risk, uncertainty, reversibility, and learning profiles.
-
 ### Moderator Summary 1
 
 The first split is not simply bottom-up versus top-down. We already have at least four axes:
@@ -205,37 +184,36 @@ The first split is not simply bottom-up versus top-down. We already have at leas
 2. **Control system:** local agency versus explicit governance.
 3. **Decision substrate:** workflow narratives versus context-to-decision chains.
 4. **Organizational topology:** existing silos versus designed value-stream teams.
-5. **Investment logic:** universal transformation doctrine versus portfolio classification.
 
 Now we move to challenges.
 
-### Round 2: Human Centerpiece Under Challenge
+### Round 2: Human Process Encoder Under Challenge
 
-**Orchestration First challenges Human Centerpiece:**
+**Orchestration First challenges Human Process Encoder:**
 Your approach risks preserving the old operating model. If every employee encodes their workflow, you get thousands of local automations. That may feel empowering, but it can increase fragmentation, duplicate effort, and brittle dependencies. Why should current work be the starting point when AI changes what work should be?
 
-**Human Centerpiece rebuts:**
+**Human Process Encoder rebuts:**
 Because current work is the only place where operational truth lives. I am not saying every local automation should survive. I am saying that workflow encoding is a discovery method. If people encode what they actually do, we learn which workarounds are wisdom, which are waste, and which are symptoms of broken systems. Redesign without that evidence is fantasy architecture.
 
 **Context-to-Decision Value Chain adds a challenge:**
 Even if worker encoding reveals truth, the output may still be trapped in local prompts and private agents. How do you turn tacit knowledge into governed context, structured artifacts, decision models, interfaces, and feedback loops?
 
-**Human Centerpiece rebuts:**
+**Human Process Encoder rebuts:**
 That is the right challenge. The local agent should not be the final artifact. It should produce process maps, exception catalogs, decision criteria, data requirements, and guardrail candidates. Those can become shared context artifacts, governance rules, decision models, and reusable orchestration components.
 
 **Quality of Working Life adds a challenge:**
 When workers encode their workflows, they may fear they are documenting themselves out of a job. Your approach depends on trust. What is the bargain?
 
-**Human Centerpiece rebuts:**
+**Human Process Encoder rebuts:**
 Agreed. Worker-led adoption is not credible if it is extraction disguised as empowerment. The organization must commit that encoding work will be used to reduce toil, improve work, build skills, and clarify responsibilities. Without that, the tacit knowledge stays hidden.
 
 ### Moderator Summary 2
 
-Human Centerpiece is strongest when framed not as “let everyone automate locally,” but as “use local encoding to discover the real operating system.” Its failure mode is localism. Its correction is to convert local discoveries into shared assets, governance, and redesign inputs.
+Human Process Encoder is strongest when framed not as “let everyone automate locally,” but as “use local encoding to discover the real operating system.” Its failure mode is localism. Its correction is to convert local discoveries into shared assets, governance, and redesign inputs.
 
 ### Round 3: Orchestration First Under Challenge
 
-**Human Centerpiece challenges Orchestration First:**
+**Human Process Encoder challenges Orchestration First:**
 You speak as if the organization can redesign around an orchestrator from a clean map. But organizations rarely understand their own workflows. How do you prevent orchestration-first design from becoming executive whiteboard fiction?
 
 **Orchestration First rebuts:**
@@ -259,13 +237,13 @@ Orchestration First is strongest when it insists that AI should change workflow 
 
 ### Round 4: Governance as Operating System Under Challenge
 
-**Human Centerpiece challenges Governance:**
+**Human Process Encoder challenges Governance:**
 Governance often becomes the department of no. Workers get locked-down tools, then move to shadow AI. How do you prevent governance from killing value?
 
 **Governance as Operating System rebuts:**
 By treating governance as enablement, not prohibition. Good governance says yes clearly: here are approved patterns, risk classes, logging defaults, data access rules, human review thresholds, and evaluation methods. Bad governance bans without providing a usable path. Governance must optimize for alignment, risk, and efficiency, not compliance alone.
 
-**Portfolio of Bets challenges Governance:**
+**Orchestration First challenges Governance:**
 If every AI initiative gets the same governance burden, low-risk learning dies. Should governance vary by bet type?
 
 **Governance as Operating System rebuts:**
@@ -289,7 +267,7 @@ Your view can become another analysis and platform project. Organizations may sp
 **Context-to-Decision Value Chain rebuts:**
 The chain should start from a concrete decision or action, not from universal mapping. Ask what context is needed, which input rules apply, what structured artifact is useful, what decision model is required, where the human acts, and how the outcome is measured. The standard is fit-for-purpose trust across the chain, not universal perfection.
 
-**Human Centerpiece challenges Context-to-Decision Value Chain:**
+**Human Process Encoder challenges Context-to-Decision Value Chain:**
 If domain teams own parts of the chain, how do you avoid each team encoding local semantics, decision assumptions, or UI patterns that nobody else understands?
 
 **Context-to-Decision Value Chain rebuts:**
@@ -307,7 +285,7 @@ Context-to-Decision Value Chain is strongest when it identifies the full convers
 
 ### Round 6: Capability Building Under Challenge
 
-**Portfolio of Bets challenges Capability Building:**
+**Governance as Operating System challenges Capability Building:**
 Capability building can become vague. Every initiative claims to create learning. How do you know whether the organization is actually getting stronger?
 
 **Capability Building rebuts:**
@@ -337,8 +315,8 @@ Some workflows should disappear. Some roles will change substantially. If qualit
 **Quality of Working Life rebuts:**
 I am not defending every existing task. I am defending legitimacy. Work can disappear, but the transition must be honest. People need credible reskilling, fair process, workload protection, and a share in the upside. If transformation is experienced as extraction, adoption quality drops and resistance becomes rational.
 
-**Portfolio of Bets challenges Quality of Working Life:**
-How do you price human effects in a portfolio? Stress, trust, autonomy, and legitimacy are hard to quantify.
+**Context-to-Decision Value Chain challenges Quality of Working Life:**
+How do you price human effects in a scorecard? Stress, trust, autonomy, and legitimacy are hard to quantify.
 
 **Quality of Working Life rebuts:**
 Hard to quantify does not mean optional. Use proxy measures: workload, attrition, sick leave, employee trust, time saved versus work added, reskilling hours, perceived autonomy, escalation volume, and quality of human review. These belong in the scorecard.
@@ -353,33 +331,9 @@ All of them. That is the point. If it is only HR, it becomes wellbeing theater. 
 
 Quality of Working Life is strongest when it treats workers as stakeholders in the AI operating model, not just users or sources of tacit knowledge. Its failure mode is conservatism. Its correction is to accept work redesign while demanding legitimate transition and shared upside.
 
-### Round 8: Portfolio of Bets Under Challenge
+### Round 8: Organizational Topology Under Challenge
 
-**Human Centerpiece challenges Portfolio of Bets:**
-Portfolio scoring can privilege what is easy to measure and miss the hidden value of local learning. How do you avoid killing early discoveries too soon?
-
-**Portfolio of Bets rebuts:**
-By scoring learning value and reversibility explicitly. A cheap, low-risk local experiment may deserve funding precisely because it teaches the organization what the work really is. But it should not automatically become a permanent local system.
-
-**Governance as Operating System challenges Portfolio of Bets:**
-Portfolio logic can become a spreadsheet that hides risk assumptions. Who decides the weights? Who reviews whether scores were right?
-
-**Portfolio of Bets rebuts:**
-Weights should reflect current strategy and risk appetite, and they should be reviewed. The score is not truth; it is a structured argument. It forces assumptions into the open so leaders can challenge them.
-
-**Context-to-Decision Value Chain challenges Portfolio of Bets:**
-Infrastructure, context governance, structured artifacts, decision models, and workflow tooling may score poorly because benefits are indirect. How do you avoid starving foundational chain investments?
-
-**Portfolio of Bets rebuts:**
-Classify foundational bets separately. Do not compare a context-to-decision platform directly against a single marketing assistant. The portfolio needs categories: local experiments, shared services, strategic redesigns, control infrastructure, and foundational context-to-decision investments.
-
-### Moderator Summary 8
-
-Portfolio of Bets is strongest when it prevents one-size-fits-all AI adoption. Its failure mode is false objectivity. Its correction is explicit assumptions, separate bet classes, and strategic weighting.
-
-### Round 9: Organizational Topology Under Challenge
-
-**Human Centerpiece challenges Organizational Topology:**
+**Human Process Encoder challenges Organizational Topology:**
 Your view can become another top-down reorganization. People who know the work may be moved around to fit a theoretical value stream. How do you avoid turning lived work into boxes on a new org chart?
 
 **Organizational Topology rebuts:**
@@ -403,7 +357,7 @@ Team redesign can be disruptive. How do you prevent “value-stream alignment”
 **Organizational Topology rebuts:**
 By treating cognitive load as a hard design constraint. Team Topologies is useful here because it asks what a team can actually hold. If AI expands responsibility without reducing other responsibility, the design is broken. Smaller, focused teams and enabling support should reduce overload, not intensify it.
 
-### Moderator Summary 9
+### Moderator Summary 8
 
 Organizational Topology is strongest when it turns AI adoption into a concrete design of teams, interfaces, ownership, and cognitive load. Its failure mode is abstract reorganization. Its correction is to ground topology in lived work, value streams, and real team capacity.
 
@@ -413,7 +367,7 @@ Organizational Topology is strongest when it turns AI adoption into a concrete d
 
 #### Pole 1: Discovery versus Design
 
-Human Centerpiece starts from lived work. Orchestration First starts from the future operating model. The debate suggests both are needed, but in different moments.
+Human Process Encoder starts from lived work. Orchestration First starts from the future operating model. The debate suggests both are needed, but in different moments.
 
 Useful synthesis:
 
@@ -421,7 +375,7 @@ Useful synthesis:
 
 #### Pole 2: Local Agency versus Shared Infrastructure
 
-Human Centerpiece and Quality of Working Life protect agency. Orchestration First, Context-to-Decision Value Chain, and Governance protect shared structure. Portfolio of Bets asks which level is appropriate for each initiative.
+Human Process Encoder and Quality of Working Life protect agency. Orchestration First, Context-to-Decision Value Chain, and Governance protect shared structure.
 
 Useful synthesis:
 
@@ -429,7 +383,7 @@ Useful synthesis:
 
 #### Pole 3: Value Creation versus Risk Control
 
-Governance often gets framed as risk control, while Orchestration First and Portfolio of Bets emphasize value. The debate suggests this split is harmful.
+Governance often gets framed as risk control, while Orchestration First emphasizes value. The debate suggests this split is harmful.
 
 Useful synthesis:
 
@@ -443,17 +397,11 @@ Useful synthesis:
 
 **AI adoption may eliminate tasks, but it must also improve work, preserve agency where it matters, and give people credible paths into the new operating model.**
 
-#### Pole 5: Universal Doctrine versus Portfolio Logic
 
-Each perspective is tempted to become the answer. Portfolio of Bets resists that.
-
-Useful synthesis:
-
-**Different AI initiatives require different adoption modes. A low-risk personal productivity tool, a regulated decision system, a context-to-decision chain, and an enterprise orchestrator should not use the same governance or funding model.**
 
 #### Pole 6: Existing Org Chart versus Designed Value Streams
 
-Organizational Topology argues that AI systems will copy the organization's communication structure. Human Centerpiece supplies the lived evidence of how work actually flows. Orchestration First supplies the future-state design pressure.
+Organizational Topology argues that AI systems will copy the organization's communication structure. Human Process Encoder supplies the lived evidence of how work actually flows. Orchestration First supplies the future-state design pressure.
 
 Useful synthesis:
 
@@ -475,17 +423,16 @@ Useful synthesis:
 
 7. **Quality of Working Life is strategic.** Trust, workload, autonomy, surveillance, and reskilling are not side issues; they determine whether adoption is real or performative.
 
-8. **Portfolio logic prevents overgeneralization.** AI initiatives should be classified and managed by value, risk, uncertainty, reversibility, dependency, and learning value.
 
-9. **Topology makes governance real.** Decision rights, context-to-decision chains, orchestration, learning, and legitimacy all need a home in teams, interfaces, and ownership boundaries.
+8. **Topology makes governance real.** Decision rights, context-to-decision chains, orchestration, learning, and legitimacy all need a home in teams, interfaces, and ownership boundaries.
 
 ## Part 4: More Useful Groupings
 
-The eight perspectives can be grouped into five layers.
+The seven perspectives can be grouped into four layers.
 
 ### Layer 1: Discovery
 
-- Human Centerpiece
+- Human Process Encoder
 - Quality of Working Life
 - Capability Building
 
@@ -514,12 +461,7 @@ This layer asks: How should workflows, data flows, and decision flows be recompo
 
 This layer asks: Which teams own which value streams, context artifacts, decision models, platforms, enabling work, specialist subsystems, and interfaces?
 
-### Layer 5: Allocation
 
-- Portfolio of Bets
-- Governance as Operating System
-
-This layer asks: Which initiatives deserve funding, which deserve experimentation, which deserve scaling, and which should be stopped?
 
 ## Part 5: Additional Vacant Positions Discovered
 
@@ -541,8 +483,8 @@ This view would ask how much strategic dependency the organization accepts when 
 
 The strongest synthesized position is:
 
-**AI adoption should begin with humans encoding real work as a discovery method, convert those discoveries into governed context-to-decision chains and reusable capabilities, redesign team boundaries around value streams and cognitive load, and then redesign workflows around orchestration where the value/risk profile justifies it. The whole process should be managed as a portfolio of bets and grounded in explicit quality of working life.**
+**AI adoption should begin with humans encoding real work as a discovery method, convert those discoveries into governed context-to-decision chains and reusable capabilities, redesign team boundaries around value streams and cognitive load, and then redesign workflows around orchestration where the value/risk profile justifies it. The whole process should be grounded in explicit quality of working life.**
 
 In a shorter form:
 
-**Discover locally. Structure deliberately. Design topology around value streams. Govern proportionately. Redesign around flows. Build capability. Protect legitimacy. Fund as a portfolio.**
+**Discover locally. Structure deliberately. Design topology around value streams. Govern proportionately. Redesign around flows. Build capability. Protect legitimacy. **
