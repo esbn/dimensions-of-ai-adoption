@@ -32,5 +32,5 @@ This perspective also treats cognitive load as an operating constraint. AI does 
 - Challenge Governance as Operating System when governance is treated as policy rather than organizational structure and decision placement.
 - Challenge Context-to-Decision Value Chain when context artifacts, decision models, workflow interfaces, or feedback loops lack clear team ownership, consumer interfaces, and platform support.
 - Challenge Capability Building when learning is loaded onto existing teams without reducing cognitive load or redesigning responsibilities.
-- Challenge Work Legitimacy when the human bargain ignores the organizational structures needed to prevent overload.
+- Challenge Quality of Working Life when the human bargain ignores the organizational structures needed to prevent overload.
 - Challenge Portfolio of Bets when portfolio categories do not distinguish local experiments, stream-aligned capabilities, platform investments, enabling work, and specialist subsystems.

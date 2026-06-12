@@ -10,7 +10,7 @@ The eight perspectives are:
 4. Governance as Operating System
 5. Context-to-Decision Value Chain
 6. Capability Building
-7. Work Legitimacy
+7. Quality of Working Life
 8. Portfolio of Bets
 
 ## Sources Used for Initialization
@@ -129,7 +129,7 @@ Every AI initiative should therefore be treated as a training ground. The output
 
 **Evidence orientation:** McKinsey emphasizes that generative AI productivity gains require worker support, new skills, and work transitions. OECD recommends AI training, skill anticipation, lifelong learning, and on-the-job training. HBR and MIT Sloan frame AI adoption as organizational transformation, not tool rollout.
 
-### 7. Work Legitimacy
+### 7. Quality of Working Life
 
 **Core belief:** AI adoption is not legitimate unless it improves the human conditions of work, not just organizational throughput.
 
@@ -141,7 +141,7 @@ It affects autonomy, skill, status, workload, surveillance, stress, job security
 
 This perspective says AI adoption will fail, or become ethically thin, if it is experienced as extraction. Workers may resist, hide knowledge, create informal workarounds, or comply performatively.
 
-The organization needs an explicit work legitimacy bargain: what employees gain, what changes, what remains human, how productivity gains are shared, how reskilling works, and how AI prevents rather than accelerates brain fry.
+The organization needs an explicit quality of working life bargain: what employees gain, what changes, what remains human, how productivity gains are shared, how reskilling works, and how AI prevents rather than accelerates brain fry.
 
 **Evidence orientation:** OECD states that AI can improve safety, enjoyment at work, and productivity, but also carries risks including automation, privacy, bias, accountability, transparency, and increased work intensity. McKinsey emphasizes that productivity gains require workers to shift activities and sometimes occupations, and that stakeholders must manage both benefits and harms.
 
@@ -165,9 +165,9 @@ Each AI initiative should be classified by expected value, uncertainty, risk, re
 
 ### Moderator Opening
 
-We have eight perspectives in the room. Two were present from the beginning: Human Centerpiece and Orchestration First. Six others fill vacant positions: Organizational Topology, Governance as Operating System, Context-to-Decision Value Chain, Capability Building, Work Legitimacy, and Portfolio of Bets.
+We have eight perspectives in the room. Two were present from the beginning: Human Centerpiece and Orchestration First. Six others fill vacant positions: Organizational Topology, Governance as Operating System, Context-to-Decision Value Chain, Capability Building, Quality of Working Life, and Portfolio of Bets.
 
-The opening tension is this: Should AI adoption begin from lived work, future orchestration, organizational topology, explicit governance, the context-to-decision value chain, organizational learning, worker legitimacy, or portfolio allocation?
+The opening tension is this: Should AI adoption begin from lived work, future orchestration, organizational topology, explicit governance, the context-to-decision value chain, organizational learning, quality of working life, or portfolio allocation?
 
 I will ask each perspective to state its strongest position, then invite challenges. If a perspective is challenged, it may rebut immediately.
 
@@ -191,7 +191,7 @@ Start with the conversion chain. Models do not act on intentions; they act on co
 **Capability Building:**
 Start with learning. Every model, vendor, tool, and pattern will change. The only durable advantage is the organization's ability to keep learning how to sense opportunities, redesign work, evaluate AI, manage risk, and reskill people. A successful AI project should leave behind stronger capabilities, not only a deployed agent.
 
-**Work Legitimacy:**
+**Quality of Working Life:**
 Start with legitimacy. AI adoption changes workload, autonomy, skill, surveillance, and job security. If workers experience AI as extraction, they will resist, hide knowledge, or comply performatively. Any serious adoption strategy must say what employees gain, not just what the organization saves.
 
 **Portfolio of Bets:**
@@ -223,7 +223,7 @@ Even if worker encoding reveals truth, the output may still be trapped in local 
 **Human Centerpiece rebuts:**
 That is the right challenge. The local agent should not be the final artifact. It should produce process maps, exception catalogs, decision criteria, data requirements, and guardrail candidates. Those can become shared context artifacts, governance rules, decision models, and reusable orchestration components.
 
-**Work Legitimacy adds a challenge:**
+**Quality of Working Life adds a challenge:**
 When workers encode their workflows, they may fear they are documenting themselves out of a job. Your approach depends on trust. What is the bargain?
 
 **Human Centerpiece rebuts:**
@@ -271,7 +271,7 @@ If every AI initiative gets the same governance burden, low-risk learning dies. 
 **Governance as Operating System rebuts:**
 Yes. Governance should be risk-tiered. A personal drafting assistant, a customer-facing agent, a credit decision system, and an internal knowledge search tool should not face the same process. But each should have explicit rules proportionate to its risk and reversibility.
 
-**Work Legitimacy challenges Governance:**
+**Quality of Working Life challenges Governance:**
 Governance often protects customers, regulators, and the company, but not workers. Where do workload, surveillance, stress, and reskilling enter your model?
 
 **Governance as Operating System rebuts:**
@@ -319,7 +319,7 @@ If you focus too much on learning, you may tolerate endless experimentation with
 **Capability Building rebuts:**
 Capability building is not an excuse for pilots. A pilot should either scale, become infrastructure, inform redesign, or be killed. The organization learns by making those decisions rigorously. Endless pilots mean weak capability, not strong capability.
 
-**Work Legitimacy challenges Capability Building:**
+**Quality of Working Life challenges Capability Building:**
 Capability building often means asking workers to learn more while still doing their old jobs. How do you prevent upskilling from becoming unpaid cognitive overload?
 
 **Capability Building rebuts:**
@@ -329,29 +329,29 @@ Good point. Learning must be resourced. Time, coaching, role redesign, and workl
 
 Capability Building is strongest when it makes adoption adaptive over time. Its failure mode is vagueness or endless learning loops. Its correction is observable capability outcomes, explicit kill/scale decisions, and resourced learning.
 
-### Round 7: Work Legitimacy Under Challenge
+### Round 7: Quality of Working Life Under Challenge
 
-**Orchestration First challenges Work Legitimacy:**
-Some workflows should disappear. Some roles will change substantially. If work legitimacy protects existing work too strongly, does it block transformation?
+**Orchestration First challenges Quality of Working Life:**
+Some workflows should disappear. Some roles will change substantially. If quality of working life protects existing work too strongly, does it block transformation?
 
-**Work Legitimacy rebuts:**
+**Quality of Working Life rebuts:**
 I am not defending every existing task. I am defending legitimacy. Work can disappear, but the transition must be honest. People need credible reskilling, fair process, workload protection, and a share in the upside. If transformation is experienced as extraction, adoption quality drops and resistance becomes rational.
 
-**Portfolio of Bets challenges Work Legitimacy:**
+**Portfolio of Bets challenges Quality of Working Life:**
 How do you price human effects in a portfolio? Stress, trust, autonomy, and legitimacy are hard to quantify.
 
-**Work Legitimacy rebuts:**
+**Quality of Working Life rebuts:**
 Hard to quantify does not mean optional. Use proxy measures: workload, attrition, sick leave, employee trust, time saved versus work added, reskilling hours, perceived autonomy, escalation volume, and quality of human review. These belong in the scorecard.
 
-**Governance as Operating System challenges Work Legitimacy:**
-Should worker legitimacy be governance, HR, change management, or strategy?
+**Governance as Operating System challenges Quality of Working Life:**
+Should quality of working life be governance, HR, change management, or strategy?
 
-**Work Legitimacy rebuts:**
-All of them. That is the point. If it is only HR, it becomes wellbeing theater. If it is only governance, it becomes policy. If it is only strategy, it becomes messaging. Work legitimacy must be embedded in the operating model.
+**Quality of Working Life rebuts:**
+All of them. That is the point. If it is only HR, it becomes wellbeing theater. If it is only governance, it becomes policy. If it is only strategy, it becomes messaging. Quality of Working Life must be embedded in the operating model.
 
 ### Moderator Summary 7
 
-Work Legitimacy is strongest when it treats workers as stakeholders in the AI operating model, not just users or sources of tacit knowledge. Its failure mode is conservatism. Its correction is to accept work redesign while demanding legitimate transition and shared upside.
+Quality of Working Life is strongest when it treats workers as stakeholders in the AI operating model, not just users or sources of tacit knowledge. Its failure mode is conservatism. Its correction is to accept work redesign while demanding legitimate transition and shared upside.
 
 ### Round 8: Portfolio of Bets Under Challenge
 
@@ -397,7 +397,7 @@ Does team topology replace governance, or is it just one governance concern?
 **Organizational Topology rebuts:**
 It is the structural side of governance. Policies say what should happen. Topology decides who can actually make it happen. Decision rights, risk ownership, platform responsibilities, enabling support, and escalation paths all become real only when they are placed inside teams and interfaces.
 
-**Work Legitimacy challenges Organizational Topology:**
+**Quality of Working Life challenges Organizational Topology:**
 Team redesign can be disruptive. How do you prevent “value-stream alignment” from becoming a euphemism for more work, more specialization, and less agency?
 
 **Organizational Topology rebuts:**
@@ -421,7 +421,7 @@ Useful synthesis:
 
 #### Pole 2: Local Agency versus Shared Infrastructure
 
-Human Centerpiece and Work Legitimacy protect agency. Orchestration First, Context-to-Decision Value Chain, and Governance protect shared structure. Portfolio of Bets asks which level is appropriate for each initiative.
+Human Centerpiece and Quality of Working Life protect agency. Orchestration First, Context-to-Decision Value Chain, and Governance protect shared structure. Portfolio of Bets asks which level is appropriate for each initiative.
 
 Useful synthesis:
 
@@ -435,9 +435,9 @@ Useful synthesis:
 
 **AI governance should manage alignment, risk, and efficiency together. A safe AI initiative that creates no value is also poor governance.**
 
-#### Pole 4: Automation versus Work Legitimacy
+#### Pole 4: Automation versus Quality of Working Life
 
-Orchestration First wants to remove obsolete work. Work Legitimacy insists that transition quality matters. Capability Building adds that skill development must be resourced.
+Orchestration First wants to remove obsolete work. Quality of Working Life insists that transition quality matters. Capability Building adds that skill development must be resourced.
 
 Useful synthesis:
 
@@ -473,7 +473,7 @@ Useful synthesis:
 
 6. **Capability is the compounding asset.** The organization must become better at identifying, designing, evaluating, governing, and adapting AI systems.
 
-7. **Work legitimacy is strategic.** Trust, workload, autonomy, surveillance, and reskilling are not side issues; they determine whether adoption is real or performative.
+7. **Quality of Working Life is strategic.** Trust, workload, autonomy, surveillance, and reskilling are not side issues; they determine whether adoption is real or performative.
 
 8. **Portfolio logic prevents overgeneralization.** AI initiatives should be classified and managed by value, risk, uncertainty, reversibility, dependency, and learning value.
 
@@ -486,7 +486,7 @@ The eight perspectives can be grouped into five layers.
 ### Layer 1: Discovery
 
 - Human Centerpiece
-- Work Legitimacy
+- Quality of Working Life
 - Capability Building
 
 This layer asks: What is the real work, who is affected, and what is the organization learning?
@@ -541,7 +541,7 @@ This view would ask how much strategic dependency the organization accepts when 
 
 The strongest synthesized position is:
 
-**AI adoption should begin with humans encoding real work as a discovery method, convert those discoveries into governed context-to-decision chains and reusable capabilities, redesign team boundaries around value streams and cognitive load, and then redesign workflows around orchestration where the value/risk profile justifies it. The whole process should be managed as a portfolio of bets and grounded in explicit work legitimacy.**
+**AI adoption should begin with humans encoding real work as a discovery method, convert those discoveries into governed context-to-decision chains and reusable capabilities, redesign team boundaries around value streams and cognitive load, and then redesign workflows around orchestration where the value/risk profile justifies it. The whole process should be managed as a portfolio of bets and grounded in explicit quality of working life.**
 
 In a shorter form:
 
